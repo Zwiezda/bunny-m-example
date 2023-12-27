@@ -1,0 +1,3 @@
+from .band_update import BandUpdateBaseConsumer
+from .album_update import AlbumUpdateBaseConsumer
+from .concert_update import ConcertUpdateBaseConsumer
