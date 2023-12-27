@@ -1,6 +1,7 @@
-=====
+
+========================================
 Bunny M (Bunny Message) Example project
-=====
+========================================
 
 Example django project which demonstrates the operation of the django-bunny-m module.
 
@@ -15,3 +16,4 @@ Quick start
 2. Run consumers by command::
 
     python manage.py start_all_consumers
+
